@@ -1,4 +1,4 @@
-<p align="left">Je m'appelle Gabriel et j'ai 20 ans. Actuellement, je suis en troisième année d'études à Epitech Rennes.<br><br>Il y a encore tant à apprendre et je suis constamment en quête de nouvelles connaissances. À ce jour, j'ai acquis une expertise significative en C, ainsi que des compétences approfondies en C++ et en Python.<br><br>L'un des atouts que j'ai développés au fil du temps est ma capacité à apprendre de manière autonome de nouveaux langages. De plus, j'ai appris à raisonner efficacement pour répondre à un besoin spécifique, ce qui est une compétence essentielle dans la réalisation d'un projet.<br><br>J'ai également eu l'opportunité d'apprendre d'autres langages lors de projets personnels et de stages en entreprise, ce qui m'a permis d'acquérir une compréhension approfondie de la logique de fonctionnement entre le code que je produis et la façon dont il est interprété par l'OS.</p>
+
 
 ###
 
